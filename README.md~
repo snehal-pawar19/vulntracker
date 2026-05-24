@@ -1,0 +1,23 @@
+# 🔍 VulnTracker — CVE Vulnerability Scanner
+
+Real-time CVE vulnerability tracker that fetches latest 
+Critical vulnerabilities from NVD database, classifies 
+by CVSS score, and integrates with Splunk SIEM.
+
+## Features
+- ✅ Fetches live CVE data from NVD API
+- ✅ CVSS severity classification
+- ✅ Auto-generates JSON incident reports
+- ✅ Splunk SIEM integration
+- ✅ Prioritized remediation actions
+
+## Tech Stack
+Python, NVD API, Splunk, REST API
+
+## How to Run
+pip install requests
+python src/vulntracker.py
+
+## Author
+Snehal Pawar
+github.com/snehal-pawar19
