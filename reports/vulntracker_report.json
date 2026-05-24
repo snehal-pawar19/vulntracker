@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-1999-0426",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "1999-03-01",
+    "description": "The default permissions of /dev/kmem in Linux versions before 2.0.36 allows IP spoofing.",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-1999-1324",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "1999-12-31",
+    "description": "VAXstations running Open VMS 5.3 through 5.5-2 with VMS DECwindows or MOTIF do not properly disable ",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2000-1218",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2000-04-14",
+    "description": "The default configuration for the domain name resolver for Microsoft Windows 98, NT 4.0, 2000, and X",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2000-0944",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2000-12-19",
+    "description": "CGI Script Center News Update 1.1 does not properly validate the original news administration passwo",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-1339",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-05-24",
+    "description": "Beck IPC GmbH IPC@CHIP telnet service does not delay or disconnect users from the service when bad p",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-0248",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-06-18",
+    "description": "Buffer overflow in FTP server in HPUX 11 allows remote attackers to execute arbitrary commands by cr",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-0249",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-06-18",
+    "description": "Heap overflow in FTP daemon in Solaris 8 allows remote attackers to execute arbitrary commands by cr",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-0395",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-07-02",
+    "description": "Lightwave ConsoleServer 3200 does not disconnect users after unsuccessful login attempts, which coul",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-1291",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-07-12",
+    "description": "The telnet server for 3Com hardware such as PS40 SuperStack II does not delay or disconnect remote a",
+    "action": "Patch immediately \u2014 check if systems affected"
+  },
+  {
+    "timestamp": "2026-05-24 18:27:59",
+    "cve_id": "CVE-2001-0609",
+    "severity": "CRITICAL",
+    "cvss_score": 9.8,
+    "published": "2001-08-02",
+    "description": "Format string vulnerability in Infodrom cfingerd 1.4.3 and earlier allows a remote attacker to gain ",
+    "action": "Patch immediately \u2014 check if systems affected"
+  }
+]
