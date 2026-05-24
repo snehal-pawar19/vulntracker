@@ -1,11 +1,11 @@
 timestamp,cve_id,severity,cvss_score,published,description,action
-2026-05-24 18:27:59,CVE-1999-0426,CRITICAL,9.8,1999-03-01,The default permissions of /dev/kmem in Linux versions before 2.0.36 allows IP spoofing.,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-1999-1324,CRITICAL,9.8,1999-12-31,VAXstations running Open VMS 5.3 through 5.5-2 with VMS DECwindows or MOTIF do not properly disable ,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2000-1218,CRITICAL,9.8,2000-04-14,"The default configuration for the domain name resolver for Microsoft Windows 98, NT 4.0, 2000, and X",Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2000-0944,CRITICAL,9.8,2000-12-19,CGI Script Center News Update 1.1 does not properly validate the original news administration passwo,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-1339,CRITICAL,9.8,2001-05-24,Beck IPC GmbH IPC@CHIP telnet service does not delay or disconnect users from the service when bad p,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-0248,CRITICAL,9.8,2001-06-18,Buffer overflow in FTP server in HPUX 11 allows remote attackers to execute arbitrary commands by cr,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-0249,CRITICAL,9.8,2001-06-18,Heap overflow in FTP daemon in Solaris 8 allows remote attackers to execute arbitrary commands by cr,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-0395,CRITICAL,9.8,2001-07-02,"Lightwave ConsoleServer 3200 does not disconnect users after unsuccessful login attempts, which coul",Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-1291,CRITICAL,9.8,2001-07-12,The telnet server for 3Com hardware such as PS40 SuperStack II does not delay or disconnect remote a,Patch immediately — check if systems affected
-2026-05-24 18:27:59,CVE-2001-0609,CRITICAL,9.8,2001-08-02,Format string vulnerability in Infodrom cfingerd 1.4.3 and earlier allows a remote attacker to gain ,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-1999-0426,CRITICAL,9.8,1999-03-01,The default permissions of /dev/kmem in Linux versions before 2.0.36 allows IP spoofing.,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-1999-1324,CRITICAL,9.8,1999-12-31,VAXstations running Open VMS 5.3 through 5.5-2 with VMS DECwindows or MOTIF do not properly disable ,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2000-1218,CRITICAL,9.8,2000-04-14,"The default configuration for the domain name resolver for Microsoft Windows 98, NT 4.0, 2000, and X",Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2000-0944,CRITICAL,9.8,2000-12-19,CGI Script Center News Update 1.1 does not properly validate the original news administration passwo,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-1339,CRITICAL,9.8,2001-05-24,Beck IPC GmbH IPC@CHIP telnet service does not delay or disconnect users from the service when bad p,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-0248,CRITICAL,9.8,2001-06-18,Buffer overflow in FTP server in HPUX 11 allows remote attackers to execute arbitrary commands by cr,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-0249,CRITICAL,9.8,2001-06-18,Heap overflow in FTP daemon in Solaris 8 allows remote attackers to execute arbitrary commands by cr,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-0395,CRITICAL,9.8,2001-07-02,"Lightwave ConsoleServer 3200 does not disconnect users after unsuccessful login attempts, which coul",Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-1291,CRITICAL,9.8,2001-07-12,The telnet server for 3Com hardware such as PS40 SuperStack II does not delay or disconnect remote a,Patch immediately — check if systems affected
+2026-05-24 19:11:32,CVE-2001-0609,CRITICAL,9.8,2001-08-02,Format string vulnerability in Infodrom cfingerd 1.4.3 and earlier allows a remote attacker to gain ,Patch immediately — check if systems affected
